@@ -1,11 +1,13 @@
-Arquiteto e Urbanista de formação, migrei recentemente para as áreas de Ciências de Dados e Business Intelligence. Aprofundei meus estudos no Microsoft Power BI e sigo me aprimorando nas linguagens M, DAX, SQL e Python.
-Desde fevereiro de 2024, trabalho como analista de dados na empresa TDBusiness com as seguintes atribuições:
-- Extração, modelagem e tratamento de dados com Power BI;
-- Prototipação e criação de dashboards com Power Bl;
-- Participação em reuniões de validação de produtos de Bl;
-- Realização de análises descritivas e exploratórias;
-- Auxilio na expansão do uso de análise, estruturando projetos e projetando soluções;
-- Levantamento das regras de processo e de negócio, analise funcional e técnica de requisitos para desenvolvimento de produtos de Bl.
+Sou Analista de Dados com 3 anos de experiência, especialista em Power BI (DAX, Power Query (M), modelagem dimensional em estrela, RLS, atualização incremental e Power BI Service), SQL e Python. Atuo ponta a ponta: ETL/ELT e integração via APIs REST, orquestração em Azure (ex.: Data Factory)/Databricks, e bancos SQL Server, MySQL, PostgreSQL, Oracle e BigQuery, entregando dashboards executivos e operacionais, KPIs estratégicos e padronizados e performance otimizada.
+
+Na TD Business, liderei tecnicamente o projeto FEESC e atuei na AEB (Agência Espacial Brasileira), Terracap, FEPESE, Summit Cidades e Empreende Brazil, construindo modelos confiáveis, métricas consistentes e rotinas automatizadas que reduziram retrabalho e aceleraram a tomada de decisão. 
+
+Estou cursando MBA em Data Science & Analytics (USP/Esalq) e falo inglês fluente (colaboração com times globais).
+
+Contato:
+📲 www.dadosquedecidem.com.br
+📩 dadosquedecidem@gmail.com
+📞 (48) 99600-8160
 
 https://www.linkedin.com/in/vloch/
 
