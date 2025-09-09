@@ -1,15 +1,13 @@
-Sou Analista de Dados com 3 anos de experiência, especialista em Power BI (DAX, Power Query (M), modelagem dimensional em estrela, RLS, atualização incremental e Power BI Service), SQL e Python. Atuo ponta a ponta: ETL/ELT e integração via APIs REST, orquestração em Azure (ex.: Data Factory)/Databricks, e bancos SQL Server, MySQL, PostgreSQL, Oracle e BigQuery, entregando dashboards executivos e operacionais, KPIs estratégicos e padronizados e performance otimizada.
+Transformo dados brutos em insights estratégicos que impulsionam resultados de negócios. Com 3 anos de experiência, especializei-me na criação de dashboards interativos de alta performance com o Power BI, capacitando líderes a tomarem decisões mais rápidas e assertivas.
 
-Na TD Business, liderei tecnicamente o projeto FEESC e atuei na AEB (Agência Espacial Brasileira), Terracap, FEPESE, Summit Cidades e Empreende Brazil, construindo modelos confiáveis, métricas consistentes e rotinas automatizadas que reduziram retrabalho e aceleraram a tomada de decisão. 
+Para isso, estudo o ciclo completo do dado, da engenharia à visualização, utilizando DAX, M (Power Query), SQL e Python para construir modelos confiáveis e rotinas automatizadas. Tenho experiência com ETL, APIs REST, diversos bancos de dados SQL (SQL Server, MySQL, PostgreSQL, Oracle, BigQuery, etc) e vivência com ferramentas de orquestração Azure (Data Factory, Databricks).
 
-Estou cursando MBA em Data Science & Analytics (USP/Esalq) e falo inglês fluente (colaboração com times globais).
+Liderei tecnicamente o projeto FEESC e atuei na AEB (Agência Espacial Brasileira), FEPESE e Terracap. Curso MBA em Data Science & Analytics (USP/Esalq) e, com inglês fluente, colaboro com naturalidade em equipes globais.
 
 Contato:
 📲 www.dadosquedecidem.com.br
 📩 dadosquedecidem@gmail.com
 📞 (48) 99600-8160
-
-https://www.linkedin.com/in/vloch/
 
 <!---
 victorloch/victorloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
